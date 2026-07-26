@@ -1,0 +1,6 @@
+{
+  "name": "Magical Poem Maker",
+  "description": "A cheerful, interactive magical poem generator and story book application for children and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
